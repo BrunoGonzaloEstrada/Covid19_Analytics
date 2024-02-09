@@ -2,7 +2,7 @@
 
 🚀 **Abordando la Pandemia: Análisis de Datos para la Gestión de COVID-19 en Argentina**
 
-Como científicos de datos, estamos comprometidos en la lucha contra la pandemia de COVID-19, utilizando análisis de datos para proporcionar insights valiosos que guíen la toma de decisiones. Recientemente, hemos llevado a cabo un proyecto para comprender la evolución del virus, la distribución de vacunas y los factores demográficos que influyen en la letalidad. Aquí están algunos hallazgos destacados:
+Como científicos de datos, estamos comprometidos en la lucha contra la pandemia de COVID-19, utilizando análisis de datos para proporcionar insights valiosos que guíen la toma de decisiones. Aquí están algunos hallazgos destacados:
 
 1. **Evolución Global vs. Argentina**: A través de un análisis comparativo, hemos observado cómo la evolución de COVID-19 en Argentina se ha mantenido bajo control en comparación con otros países líderes, incluso ante el desafío de la variante Ómicron.
 
